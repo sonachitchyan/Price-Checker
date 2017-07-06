@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="count">Քանակ</string>
+    <string name="name">Անվանում</string>
+    <string name="barcode">Շտրիխ կոդ</string>
+    <string name="price">Գին</string>
+    <string name="amount_price">Գումար</string>
+    <string name="zero">Զրոյացնել</string>
+    <string name="list">Ցուցակ</string>
+    <string name="back">Հետ</string>
+</resources>
